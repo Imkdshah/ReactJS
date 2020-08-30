@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+}
+
+.appstyle {
+  background: #222;
+  color: #fff;
+  scroll-behavior: smooth;
+ 
+}
+img{
+  max-width:20%;
+  
+  display: flex;
+}
+
+
+
+
